@@ -29,7 +29,7 @@
 # 🌐 Programming Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,java,c,cpp,csharp,rust,go,kotlin,swift,dart,ruby,perl,scala,lua,matlab,fortran,assembly,haskell,elixir,zig,nim" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,java,c,cpp,csharp,rust,go,kotlin,swift,dart,ruby,perl,scala,lua,matlab,fortran,assembly,haskell,elixir,zig,nim,haskell" />
 </p>
 
 ---
@@ -45,7 +45,7 @@
 ## ⚛️ Frameworks & Libraries
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,vue,angular,svelte,nextjs,nuxtjs,nodejs,express,nestjs,laravel,codeigniter,spring,flask,django,fastapi" />
+  <img src="https://skillicons.dev/icons?i=react,vue,angular,svelte,nextjs,nuxtjs,nodejs,express,nestjs,laravel,codeigniter,spring,flask,django,fastapi,laravel" />
 </p>
 
 ---
@@ -131,7 +131,7 @@ _(More projects coming soon…)_
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
   </a>
   <a href="https://www.youtube.com/channel/UCscdb5PJKAL9jNgbiaoxHfg">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
