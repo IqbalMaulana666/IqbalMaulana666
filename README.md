@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Iqbal Maulana</h1>
+<!--<h1 align="center">Hi 👋, I'm Iqbal Maulana</h1>
 <h3 align="center">High School Student | Web Developer Enthusiast | Future Full Stack Developer</h3>
 
 <p align="center">
