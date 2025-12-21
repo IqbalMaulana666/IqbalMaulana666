@@ -17,7 +17,7 @@
 
 🎓 **High school student from Indonesia**  
 💻 Passionate about **programming, technology, and web development**  
-🌱 Currently learning **HTML, CSS, JavaScript, PHP**  
+🌱 Currently learning **HTML, CSS, JavaScript, PHP, PYTHON**  
 🧠 Interested in **Front-End, Back-End, and Full Stack Development**  
 🚀 Dream: **Become a professional web developer & software engineer**  
 🔥 Motto: _Learn, Practice, Improve, Repeat_
