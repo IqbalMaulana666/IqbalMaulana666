@@ -37,7 +37,7 @@
 ## 🌍 Web Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,bootstrap,tailwind,sass,less,postcss,jquery,webpack,vite,gulp,npm,yarn,pnpm" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,bootstrap,tailwind,vite,gulp,npm,pnpm" />
 </p>
 
 ---
@@ -45,7 +45,7 @@
 ## ⚛️ Frameworks & Libraries
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,vue,angular,svelte,nextjs,nuxtjs,nodejs,express,nestjs,laravel,codeigniter,spring,flask,django,fastapi,laravel" />
+  <img src="https://skillicons.dev/icons?i=react,vue,angular,nextjs,nodejs,express,nestjs,django,laravel,gin" />
 </p>
 
 ---
@@ -53,7 +53,7 @@
 ## 🗄️ Database & Backend Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,mongodb,redis,firebase,supabase,oracle,graphql,prisma" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,firebase,oracle" />
 </p>
 
 ---
@@ -61,7 +61,7 @@
 ## 🛠 Tools, Software & Platforms
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github,gitlab,bitbucket,figma,canva,postman,docker,kubernetes,linux,windows,bash,powershell" />
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github,gitlab,figma,canva,docker,linux,windows,bash,powershell" />
 </p>
 
 ---
