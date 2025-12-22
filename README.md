@@ -61,7 +61,7 @@
 ## 🛠 Tools, Software & Platforms
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github,gitlab,figma,canva,docker,linux,windows,bash,powershell" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,gitlab,figma,canva,docker,linux,windows,bash,powershell" />
 </p>
 
 ---
@@ -69,7 +69,7 @@
 ## ☁️ Cloud & Hosting
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,vercel,netlify,cloudflare,heroku,nginx,apache" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,vercel,netlify,cloudflare,heroku,nginx,apache" />
 </p>
 
 ---
@@ -86,14 +86,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=IqbalMaulana666&show_icons=true&theme=tokyonight" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IqbalMaulana666&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 ## 🔥 GitHub Streak
 
