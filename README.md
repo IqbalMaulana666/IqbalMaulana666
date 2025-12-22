@@ -86,15 +86,6 @@
 
 ---
 
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=IqbalMaulana666&theme=tokyonight&border_radius=15" />
-</p>
-
----
-
 ## 🚀 Projects
 
 - 🌐 Personal Website (HTML, CSS, JS)
