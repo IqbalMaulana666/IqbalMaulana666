@@ -1,4 +1,4 @@
-<!--<h1 align="center">Hi 👋, I'm Iqbal Maulana</h1>
+<h1 align="center">Hi 👋, I'm Iqbal Maulana</h1>
 <h3 align="center">High School Student | Web Developer Enthusiast | Future Full Stack Developer</h3>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 🎓 **High school student from Indonesia**  
 💻 Passionate about **programming, technology, and web development**  
-🌱 Currently learning **HTML, CSS, JavaScript, PHP, PYTHON**  
+🌱 Currently learning **HTML, CSS, JavaScript, PHP, PYTHON, GO**  
 🧠 Interested in **Front-End, Back-End, and Full Stack Development**  
 🚀 Dream: **Become a professional web developer & software engineer**  
 🔥 Motto: _Learn, Practice, Improve, Repeat_
@@ -29,7 +29,7 @@
 # 🌐 Programming Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,java,c,cpp,csharp,rust,go,kotlin,swift,dart,ruby,perl,scala,lua,matlab,fortran,assembly,haskell,elixir,zig,nim,haskell" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,go" />
 </p>
 
 ---
