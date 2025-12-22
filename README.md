@@ -95,22 +95,12 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/IqbalMaulana666/IqbalMaulana666/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 ## 🚀 Projects
 
 - 🌐 Personal Website (HTML, CSS, JS)
 - 🧮 Calculator App
-- 📋 To-Do List App
-- 🔐 Login & Register System (PHP + MySQL)
 - 📦 CRUD Web App
-- 🎮 Mini JavaScript Games
+- 🎮 Mini Python Game
 
 _(More projects coming soon…)_
 
