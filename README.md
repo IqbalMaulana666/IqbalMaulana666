@@ -37,7 +37,7 @@
 ## 🌍 Web Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,bootstrap,tailwind,vite,gulp,npm,pnpm" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,bootstrap,tailwind,vite,npm," />
 </p>
 
 ---
@@ -45,7 +45,7 @@
 ## ⚛️ Frameworks & Libraries
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,vue,angular,nextjs,nodejs,express,nestjs,django,laravel,gin" />
+  <img src="https://skillicons.dev/icons?i=react,vue,nextjs,nodejs,nestjs,laravel," />
 </p>
 
 ---
@@ -53,7 +53,7 @@
 ## 🗄️ Database & Backend Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,firebase,oracle" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,oracle" />
 </p>
 
 ---
@@ -61,7 +61,7 @@
 ## 🛠 Tools, Software & Platforms
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,gitlab,figma,canva,docker,linux,windows,bash,powershell" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,gitlab,figma,windows,bash,powershell,canva" />
 </p>
 
 ---
@@ -69,7 +69,7 @@
 ## ☁️ Cloud & Hosting
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,vercel,netlify,cloudflare,heroku,nginx,apache" />
+  <img src="https://skillicons.dev/icons?i=vercel,cloudflare,nginx,apache" />
 </p>
 
 ---
@@ -91,7 +91,6 @@
 - 🌐 Personal Website (HTML, CSS, JS)
 - 🧮 Calculator App
 - 📦 CRUD Web App
-- 🎮 Mini Python Game
 
 _(More projects coming soon…)_
 
@@ -100,12 +99,22 @@ _(More projects coming soon…)_
 ## 🌍 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/IqbalMaulana666">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-  </a>
-  <a href="https://www.youtube.com/channel/UCscdb5PJKAL9jNgbiaoxHfg">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  <!-- GITHUB -->
+<a href="https://github.com/IqbalMaulana666">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+  <!-- YOUTUBE -->
+<a href="https://www.youtube.com/channel/UCscdb5PJKAL9jNgbiaoxHfg">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+  <!-- INSTAGRAM -->
+<a href="https://www.instagram.com/jester_cr4ft/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+  <!-- LINKEDIN -->
+<a href="https://www.linkedin.com/in/muhammad-iqbal-094049388">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 </p>
 
 ---
