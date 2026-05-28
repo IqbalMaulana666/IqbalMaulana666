@@ -45,7 +45,7 @@
 ## 🛠 Tools, Software & Platforms
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,gitlab,figma,windows,bash,powershell,canva" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,windows,bash,powershell,canva" />
 </p>
 
 ---
@@ -58,6 +58,8 @@
   <img src="https://img.shields.io/badge/JavaScript-DOM%20%26%20Logic-yellow?style=for-the-badge&logo=javascript"/>
   <img src="https://img.shields.io/badge/PHP-Backend-purple?style=for-the-badge&logo=php"/>
   <img src="https://img.shields.io/badge/MySQL-Database-lightblue?style=for-the-badge&logo=mysql"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
 </p>
 
 ---
@@ -67,6 +69,7 @@
 - 🌐 Personal Website (HTML, CSS, JS)
 - 🧮 Calculator App
 - 📦 CRUD Web App
+- 📔 Library Application
 
 _(More projects coming soon…)_
 
