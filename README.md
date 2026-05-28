@@ -34,14 +34,6 @@
 
 ---
 
-## 🌍 Web Technologies
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,bootstrap,tailwind,npm,go,python" />
-</p>
-
----
-
 ## 🗄️ Database & Backend Technologies
 
 <p align="center">
