@@ -2,7 +2,7 @@
 <h3 align="center">High School Student | Web Developer Enthusiast | Future Full Stack Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Learning+Web+Development;HTML+CSS+JavaScript+PHP;Frontend+%26+Backend+Explorer;Never+Stop+Learning+And+Never+Stop+Coding" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Learning+Web+Development;HTML+CSS+JavaScript+PHP+Go+Python;Frontend+%26+Backend+Explorer;Never+Stop+Learning+And+Never+Stop+Coding" />
 </p>
 
 ---
