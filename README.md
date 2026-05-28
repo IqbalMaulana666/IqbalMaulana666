@@ -58,14 +58,6 @@
 
 ---
 
-## ☁️ Cloud & Hosting
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vercel,nginx,apache" />
-</p>
-
----
-
 ## 📚 Currently Learning
 
 <p align="center">
