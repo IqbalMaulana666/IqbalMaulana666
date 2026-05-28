@@ -105,7 +105,7 @@ _(More projects coming soon…)_
 </a>
   <!-- YOUTUBE -->
 <a href="https://www.youtube.com/channel/UCscdb5PJKAL9jNgbiaoxHfg">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
   <!-- INSTAGRAM -->
 <a href="https://www.instagram.com/jester_cr4ft/">
