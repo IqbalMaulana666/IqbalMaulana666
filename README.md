@@ -37,15 +37,7 @@
 ## 🌍 Web Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,bootstrap,tailwind,vite,npm," />
-</p>
-
----
-
-## ⚛️ Frameworks & Libraries
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,vue,nextjs,nodejs,nestjs,laravel," />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,bootstrap,tailwind,npm,go,python" />
 </p>
 
 ---
@@ -69,7 +61,7 @@
 ## ☁️ Cloud & Hosting
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vercel,cloudflare,nginx,apache" />
+  <img src="https://skillicons.dev/icons?i=vercel,nginx,apache" />
 </p>
 
 ---
